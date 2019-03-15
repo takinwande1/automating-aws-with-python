@@ -1,2 +1,4 @@
-# automating-aws-with-python
-Automating AWS with Python course
+# automating AWS with Python
+
+Repository for the class *automating
+Automating AWS with Python*
